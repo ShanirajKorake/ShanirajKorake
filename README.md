@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @TheProgrammerLucie
 - 👀 I’m interested in devloping things
-- 🌱 I’m currently learning Jetpack compose
+- 🌱 I’m currently learning React
 - 📫 How to reach me : korkeom11@gmail.com
 
 <!---
