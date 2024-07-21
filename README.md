@@ -25,7 +25,7 @@ const lucie = {
 
 Feel free to reach out for collaborations or just a chat about tech!
 
-[LinkedIn](www.linkedin.com/in/shaniraj-korake) | [Instagram](https://www.instagram.com/shaniraj._/) |
+[LinkedIn](https://www.linkedin.com/in/shaniraj-korake/) | [Instagram](https://www.instagram.com/shaniraj._/) |
 
 ---
 ⭐️ From [Lucie (Shaniraj Korake)](https://github.com/YourGitHubUsername)
