@@ -1,4 +1,4 @@
-# 👋 Hey there, I'm Lucie!
+# 👋 Hey there, I'm Shaniraj!
 
 [![Android Love](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)](https://www.android.com/)
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
